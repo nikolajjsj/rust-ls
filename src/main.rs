@@ -2,7 +2,6 @@ use chrono::{DateTime, Local};
 use std::error::Error;
 use std::fs;
 use std::fs::DirEntry;
-use std::path::Path;
 use std::path::PathBuf;
 use std::process;
 use structopt::StructOpt;
